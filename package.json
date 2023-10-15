@@ -1,7 +1,7 @@
 {
   "name": "@nexpid/vdp-shared",
   "main": "src/index.ts",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "repository": {
     "type": "git",
     "url": "https://github.com/nexpid/vdp-shared.git"
